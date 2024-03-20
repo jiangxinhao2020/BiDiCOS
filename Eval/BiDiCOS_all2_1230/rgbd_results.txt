@@ -1,0 +1,42 @@
+
+ ========>> Date: 2023-12-31 13:32:37.294425 <<======== 
+
+ ========>> Dataset: COD10K <<======== 
+[C2FNet      ] mae: 0.036  maxf: 0.743  avgf: 0.723  adpf: 0.703  maxe: 0.9    avge: 0.89   adpe: 0.886  sm: 0.813  wfm: 0.686  
+[PopNet      ] mae: 0.028  maxf: 0.802  avgf: 0.786  adpf: 0.771  maxe: 0.919  avge: 0.91   adpe: 0.91   sm: 0.851  wfm: 0.757  
+[JCNet-T     ] mae: 0.027  maxf: 0.789  avgf: 0.779  adpf: 0.771  maxe: 0.919  avge: 0.907  adpe: 0.92   sm: 0.841  wfm: 0.745  
+[TPRNet      ] mae: 0.036  maxf: 0.748  avgf: 0.724  adpf: 0.694  maxe: 0.903  avge: 0.887  adpe: 0.869  sm: 0.817  wfm: 0.683  
+[SINetV2     ] mae: 0.037  maxf: 0.752  avgf: 0.718  adpf: 0.682  maxe: 0.906  avge: 0.887  adpe: 0.864  sm: 0.815  wfm: 0.68   
+[BiDiCOS     ] mae: 0.025  maxf: 0.809  avgf: 0.799  adpf: 0.799  maxe: 0.93   avge: 0.926  adpe: 0.93   sm: 0.853  wfm: 0.773  
+[SLSR        ] mae: 0.037  maxf: 0.732  avgf: 0.715  adpf: 0.699  maxe: 0.892  avge: 0.88   adpe: 0.883  sm: 0.804  wfm: 0.673  
+[BSANet      ] mae: 0.034  maxf: 0.753  avgf: 0.738  adpf: 0.723  maxe: 0.901  avge: 0.891  adpe: 0.894  sm: 0.818  wfm: 0.699  
+[DGNet       ] mae: 0.033  maxf: 0.759  avgf: 0.728  adpf: 0.698  maxe: 0.911  avge: 0.896  adpe: 0.879  sm: 0.822  wfm: 0.693  
+[PFNet       ] mae: 0.04   maxf: 0.725  avgf: 0.701  adpf: 0.676  maxe: 0.89   avge: 0.877  adpe: 0.868  sm: 0.8    wfm: 0.66   
+[PreyNet     ] mae: 0.034  maxf: 0.747  avgf: 0.736  adpf: 0.731  maxe: 0.891  avge: 0.881  adpe: 0.894  sm: 0.813  wfm: 0.697  
+[FEDER       ] mae: 0.032  maxf: 0.768  avgf: 0.751  adpf: 0.74   maxe: 0.905  avge: 0.9    adpe: 0.901  sm: 0.822  wfm: 0.716  
+[ZoomNet     ] mae: 0.029  maxf: 0.78   avgf: 0.766  adpf: 0.741  maxe: 0.911  avge: 0.888  adpe: 0.893  sm: 0.838  wfm: 0.729  
+[SINet       ] mae: 0.043  maxf: 0.691  avgf: 0.679  adpf: 0.667  maxe: 0.874  avge: 0.864  adpe: 0.867  sm: 0.776  wfm: 0.631  
+[Camoformer-R] mae: 0.029  maxf: 0.786  avgf: 0.753  adpf: 0.721  maxe: 0.93   avge: 0.916  adpe: 0.9    sm: 0.838  wfm: 0.724  
+[UGTR        ] mae: 0.036  maxf: 0.741  avgf: 0.711  adpf: 0.67   maxe: 0.89   avge: 0.852  adpe: 0.85   sm: 0.817  wfm: 0.666  
+[MGL-R       ] mae: 0.035  maxf: 0.738  avgf: 0.71   adpf: 0.68   maxe: 0.89   avge: 0.851  adpe: 0.864  sm: 0.814  wfm: 0.666  
+[UJSC        ] mae: 0.035  maxf: 0.738  avgf: 0.721  adpf: 0.705  maxe: 0.891  avge: 0.884  adpe: 0.882  sm: 0.809  wfm: 0.684  
+
+ ========>> Dataset: NC4K <<======== 
+[JCNet-T     ] mae: 0.039  maxf: 0.847  avgf: 0.84   adpf: 0.84   maxe: 0.924  avge: 0.912  adpe: 0.924  sm: 0.864  wfm: 0.808  
+[C2FNet      ] mae: 0.049  maxf: 0.81   avgf: 0.795  adpf: 0.788  maxe: 0.904  avge: 0.897  adpe: 0.901  sm: 0.838  wfm: 0.762  
+[PopNet      ] mae: 0.042  maxf: 0.843  avgf: 0.833  adpf: 0.83   maxe: 0.919  avge: 0.909  adpe: 0.915  sm: 0.861  wfm: 0.802  
+[TPRNet      ] mae: 0.048  maxf: 0.82   avgf: 0.805  adpf: 0.798  maxe: 0.911  avge: 0.898  adpe: 0.901  sm: 0.846  wfm: 0.768  
+[SINetV2     ] mae: 0.048  maxf: 0.823  avgf: 0.805  adpf: 0.792  maxe: 0.914  avge: 0.903  adpe: 0.901  sm: 0.847  wfm: 0.77   
+[BiDiCOS     ] mae: 0.034  maxf: 0.864  avgf: 0.857  adpf: 0.857  maxe: 0.935  avge: 0.931  adpe: 0.934  sm: 0.875  wfm: 0.835  
+[BSANet      ] mae: 0.048  maxf: 0.817  avgf: 0.808  adpf: 0.805  maxe: 0.907  avge: 0.897  adpe: 0.906  sm: 0.841  wfm: 0.771  
+[SLSR        ] mae: 0.048  maxf: 0.815  avgf: 0.804  adpf: 0.802  maxe: 0.907  avge: 0.895  adpe: 0.904  sm: 0.84   wfm: 0.766  
+[PFNet       ] mae: 0.053  maxf: 0.799  avgf: 0.784  adpf: 0.779  maxe: 0.898  avge: 0.887  adpe: 0.894  sm: 0.829  wfm: 0.745  
+[PreyNet     ] mae: 0.05   maxf: 0.811  avgf: 0.803  adpf: 0.805  maxe: 0.899  avge: 0.887  adpe: 0.899  sm: 0.834  wfm: 0.763  
+[DGNet       ] mae: 0.042  maxf: 0.833  avgf: 0.814  adpf: 0.803  maxe: 0.922  avge: 0.911  adpe: 0.91   sm: 0.857  wfm: 0.784  
+[FEDER       ] mae: 0.044  maxf: 0.833  avgf: 0.824  adpf: 0.822  maxe: 0.915  avge: 0.907  adpe: 0.913  sm: 0.847  wfm: 0.789  
+[ZoomNet     ] mae: 0.043  maxf: 0.828  avgf: 0.818  adpf: 0.814  maxe: 0.912  avge: 0.896  adpe: 0.907  sm: 0.853  wfm: 0.784  
+[Camoformer-R] mae: 0.042  maxf: 0.83   avgf: 0.821  adpf: 0.82   maxe: 0.914  avge: 0.9    adpe: 0.913  sm: 0.855  wfm: 0.788  
+[SINet       ] mae: 0.058  maxf: 0.775  avgf: 0.769  adpf: 0.768  maxe: 0.883  avge: 0.871  adpe: 0.883  sm: 0.808  wfm: 0.723  
+[UGTR        ] mae: 0.052  maxf: 0.807  avgf: 0.787  adpf: 0.778  maxe: 0.899  avge: 0.874  adpe: 0.888  sm: 0.839  wfm: 0.746  
+[MGL-R       ] mae: 0.053  maxf: 0.8    avgf: 0.782  adpf: 0.778  maxe: 0.893  avge: 0.867  adpe: 0.889  sm: 0.833  wfm: 0.739  
+[UJSC        ] mae: 0.047  maxf: 0.816  avgf: 0.806  adpf: 0.803  maxe: 0.907  avge: 0.898  adpe: 0.906  sm: 0.842  wfm: 0.771  

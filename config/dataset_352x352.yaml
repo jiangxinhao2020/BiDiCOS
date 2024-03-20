@@ -1,0 +1,42 @@
+train_dataset:
+  name: dataset.data_val.PolypObjDataset
+  params:
+    image_root: 'G:/dataset/COD-TrainDataset/Imgs/'
+    gt_root: 'G:/dataset/COD-TrainDataset/GT/'
+    depth_root: 'G:/COD-TrainDataset/depth/'
+    trainsize: 352
+
+test_dataset:
+  COD10K:
+    name: dataset.data_val.test_dataset
+    params:
+      image_root: 'G:/dataset/COD-TestDataset/COD10K/Imgs/'
+      gt_root: 'G:/dataset/COD-TestDataset/COD10K/GT/'
+      depth_root: 'G:/dataset/COD-TestDataset/COD10K/depth/'
+      testsize: 352
+  CAMO:
+    name: dataset.data_val.test_dataset
+    params:
+      image_root: 'G:/dataset/COD-TestDataset/CAMO/Imgs/'
+      gt_root: 'G:/dataset/COD-TestDataset/CAMO/GT/'
+      depth_root: 'G:/dataset/COD-TestDataset/CAMO/depth/'
+      testsize: 352
+  CHAMELEON:
+    name: dataset.data_val.test_dataset
+    params:
+      image_root: 'G:/dataset/COD-TestDataset/CHAMELEON/Imgs/'
+      gt_root: 'G:/dataset/COD-TestDataset/CHAMELEON/GT/'
+      depth_root: 'G:/dataset/COD-TestDataset/CHAMELEON/depth/'
+      testsize: 352
+  NC4K:
+    name: dataset.data_val.test_dataset
+    params:
+      image_root: 'G:/dataset/COD-TestDataset/NC4K/Imgs/'
+      gt_root: 'G:/dataset/COD-TestDataset/NC4K/GT/'
+      depth_root: 'G:/dataset/COD-TestDataset/NC4K/depth/'
+      testsize: 352
+#  CDS2K:
+#    name: dataset.cds2k_dataset.cds2K_dataset
+#    params:
+#      root: '/media/datatset/CDS2K'
+#      testsize: 352
